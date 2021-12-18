@@ -108,6 +108,7 @@ button {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    margin-bottom: 35px;
 }
 
 .steps {
@@ -120,8 +121,8 @@ button {
 
 .section-title {
     font-size: 55px;
-    color: #24e76;
-    margin-bottom: 35px;
+    color: #024e76;
+    margin: 35px 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
@@ -154,7 +155,6 @@ button {
     color: #39a6b2;
     font-size: 23px;
 }
-
 
 
 footer {
